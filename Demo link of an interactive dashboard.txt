@@ -1,2 +1,2 @@
 https://app.powerbi.com/view?r=eyJrIjoiZmVlNTUwMzItYjYzOC00ZjQ5LTkwZDYtMmZjOTBkZDU0NmY0IiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9
-kindly copy and paste this link on your browser to view online version of project 
+kindly copy and paste this link on your browser to view online version of project (click next to view all dashboards) 
