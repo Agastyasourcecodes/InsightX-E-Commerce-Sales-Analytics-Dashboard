@@ -127,6 +127,7 @@ This project involves three core components:
 If you don’t want to run it locally, view the **live dashboard** online here:  
 
 👉 [View Online Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmVlNTUwMzItYjYzOC00ZjQ5LTkwZDYtMmZjOTBkZDU0NmY0IiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9)
+ps:keep clicking next to see all dashboards
 
 ---
 
@@ -139,6 +140,7 @@ If you don’t want to run it locally, view the **live dashboard** online here:
 ## 📌 Note
 - Use the `.pbix` file if you want to customize/edit the dashboard.  
 - Use the **online demo link** if you just want to interact with it.  
+
 
 
 
