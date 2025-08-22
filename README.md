@@ -1,4 +1,4 @@
-# Customer Purchase Behavior and Sentiment Analysis
+# InsightX-E-Commerce-Sales-Analytics-Dashboard
 
 This repository hosts a comprehensive end-to-end project that analyzes customer purchase behavior and sentiment using SQL, Python, and Power BI. The project combines structured data on customer transactions and reviews to deliver actionable insights for businesses.
 
@@ -118,6 +118,7 @@ This project involves three core components:
 - MySQL database installed and configured.
 - Python environment set up with required libraries.
 - Power BI Desktop for visualizations.
+
 
 
 
