@@ -112,12 +112,36 @@ This project involves three core components:
   - Libraries: `pandas`, `numpy`, `TextBlob`, `matplotlib`, `seaborn`, `pymysql`
 - **Visualization Tool:** Power BI
 
-## How to Use
+## 🚀 How to Run the Dashboard
 
-### Prerequisites
-- MySQL database installed and configured.
-- Python environment set up with required libraries.
-- Power BI Desktop for visualizations.
+### 🔹 Option A: Run Locally with Power BI Desktop
+1. **Download Power BI Desktop** (free) from the [official site](https://powerbi.microsoft.com/desktop/).  
+2. **Download the file**: `Ecommerce Analytics Dashboard.pbix`.  
+3. **Open the file** by:
+   - Double-clicking it, or  
+   - Opening Power BI Desktop → `File → Open → Browse` → select the `.pbix` file.  
+4. Wait a few seconds for the visuals and data model to load.  
+5. Start exploring the dashboard (filters, slicers, drill-downs, etc.).  
+
+### 🔹 Option B: View Online (Demo Link)
+If you don’t want to run it locally, view the **live dashboard** online here:  
+
+👉 [View Online Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmVlNTUwMzItYjYzOC00ZjQ5LTkwZDYtMmZjOTBkZDU0NmY0IiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9)
+
+---
+
+## 🛠️ Tech Used
+- **Power BI Desktop**  
+- **Power BI Service (Online)**  
+
+---
+
+## 📌 Note
+- Use the `.pbix` file if you want to customize/edit the dashboard.  
+- Use the **online demo link** if you just want to interact with it.  
+
+
+
 
 
 
