@@ -119,48 +119,7 @@ This project involves three core components:
 - Python environment set up with required libraries.
 - Power BI Desktop for visualizations.
 
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/RafiQamar/Ecommerce-Analytics-Project.git
-   ```
 
-2. Set up the MySQL database:
-   - Use the `cust_pur_details.sql` script to create and populate the database.
 
-3. Load and analyze the data:
-   - Run the Python notebook (`Customer Purchase Behavior and Sentiment Analysis.ipynb`) to extract insights and generate visualizations.
 
-4. Open the Power BI file (`Ecommerce Analytics Dashboard.pbix`) to interact with the visualized insights.
-   -Or Through the published PowerBI web link(`https://app.powerbi.com/view?r=eyJrIjoiZmVlNTUwMzItYjYzOC00ZjQ5LTkwZDYtMmZjOTBkZDU0NmY0IiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9`) to interact with the visualized insights without login on the site.
-
-## Results and Insights
-
-- **Purchase Trends:** Monthly and yearly trends in customer purchases.
-- **Top Customers:** Insights into high-value customers and their behaviors.
-- **Product Performance:** Identification of top-performing product categories.
-- **Sentiment Analysis:** Understanding customer sentiment and its impact on product popularity.
-- **Comprehensive Dashboard:** A dynamic and interactive dashboard summarizing all key insights.
-
-## Repository Structure
-
-```
-├── data/
-│   ├── customer_purchase_data.csv          # Raw purchase data
-│   ├── customer_reviews_data.csv           # Raw review data
-│   ├── updated_reviews_data.csv           # updated review data
-├── sql/
-│   ├── cust_pur_details.sql                # SQL script for database creation and transformation
-├── notebooks/
-│   ├── Customer Purchase Behavior and Sentiment Analysis.ipynb  # Python notebook
-├── dashboard/
-│   ├── Ecommerce Analytics Dashboard.pbix  # Power BI dashboard
-│   ├── Ecommerce Analytics Dashboard.pdf  # Power BI dashboard in pdf
-├── README.md                               # Project description
-```
-
-## Acknowledgments
-Special thanks to the creators of `TextBlob`, `pandas`, and other open-source libraries used in this project.
-
----
 
